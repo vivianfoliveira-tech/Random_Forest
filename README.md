@@ -1,4 +1,4 @@
-#Análise de Qualidade de Vinhos com Random Forest#
+# Análise de Qualidade de Vinhos com Random Forest 
 
 🍷 Sobre o Projeto
 O objetivo deste projeto foi desenvolver um modelo de classificação capaz de prever a nota de qualidade (quality) de vinhos tintos. Para isso, utilizei um conjunto de dados com variáveis físico-químicas e apliquei o algoritmo Random Forest em um cenário multiclasse.
